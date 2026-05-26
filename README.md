@@ -8,7 +8,7 @@ using dual specialist ML models, SHAP explainability, and a live Streamlit inter
 
 ## 🚀 Live App
 
-👉 [Launch Fraud Detection App](https://your-app-url.streamlit.app)
+👉 [Launch Fraud Detection App](https://fraud-detection-machine-learning-fkbzgreypnrearys4nqsmg.streamlit.app/)
 
 ---
 
