@@ -4,7 +4,6 @@ import numpy as np
 import joblib
 import shap
 
-# ── Load models from repo root (not Google Drive) ─────────────────
 transfer_model = joblib.load('transfer_model.pkl')
 cashout_model  = joblib.load('cashout_model.pkl')
 
